@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "question": "How often do you feel mentally engaged during online learning sessions?",
+    "options": [
+      ["Never", 4],
+      ["Rarely", 3],
+      ["Sometimes", 2],
+      ["Often", 1],
+      ["Always", 0]
+    ]
+  },
+  {
+    "id": 2,
+    "question": "How frequently do you feel distracted while studying online?",
+    "options": [
+      ["Never", 0],
+      ["Rarely", 1],
+      ["Sometimes", 2],
+      ["Often", 3],
+      ["Always", 4]
+    ]
+  },
+  {
+    "id": 3,
+    "question": "How confident do you feel in understanding material through online resources?",
+    "options": [
+      ["Very confident", 0],
+      ["Confident", 1],
+      ["Neutral", 2],
+      ["Slightly unsure", 3],
+      ["Not confident at all", 4]
+    ]
+  },
+  {
+    "id": 4,
+    "question": "How often do you feel motivated to start online study sessions?",
+    "options": [
+      ["Always", 0],
+      ["Often", 1],
+      ["Sometimes", 2],
+      ["Rarely", 3],
+      ["Never", 4]
+    ]
+  },
+  {
+    "id": 5,
+    "question": "How often do you feel mentally tired during online learning?",
+    "options": [
+      ["Never", 0],
+      ["Rarely", 1],
+      ["Sometimes", 2],
+      ["Often", 3],
+      ["Always", 4]
+    ]
+  },
+  {
+    "id": 6,
+    "question": "How effectively do you manage your time while studying online?",
+    "options": [
+      ["Very effectively", 0],
+      ["Effectively", 1],
+      ["Moderately", 2],
+      ["Poorly", 3],
+      ["Very poorly", 4]
+    ]
+  },
+  {
+    "id": 7,
+    "question": "How often do you feel overwhelmed by online learning tasks?",
+    "options": [
+      ["Never", 0],
+      ["Rarely", 1],
+      ["Sometimes", 2],
+      ["Often", 3],
+      ["Always", 4]
+    ]
+  },
+  {
+    "id": 8,
+    "question": "How often do you complete online lessons or tutorials you start?",
+    "options": [
+      ["Always", 0],
+      ["Often", 1],
+      ["Sometimes", 2],
+      ["Rarely", 3],
+      ["Never", 4]
+    ]
+  },
+  {
+    "id": 9,
+    "question": "How often do you take notes during online learning?",
+    "options": [
+      ["Always", 0],
+      ["Often", 1],
+      ["Sometimes", 2],
+      ["Rarely", 3],
+      ["Never", 4]
+    ]
+  },
+  {
+    "id": 10,
+    "question": "How often do you revise online materials after studying?",
+    "options": [
+      ["Always", 0],
+      ["Often", 1],
+      ["Sometimes", 2],
+      ["Rarely", 3],
+      ["Never", 4]
+    ]
+  },
+  {
+    "id": 11,
+    "question": "How often do you feel anxious when learning online?",
+    "options": [
+      ["Never", 0],
+      ["Rarely", 1],
+      ["Sometimes", 2],
+      ["Often", 3],
+      ["Always", 4]
+    ]
+  },
+  {
+    "id": 12,
+    "question": "How frequently do you procrastinate during online study?",
+    "options": [
+      ["Never", 0],
+      ["Rarely", 1],
+      ["Sometimes", 2],
+      ["Often", 3],
+      ["Always", 4]
+    ]
+  },
+  {
+    "id": 13,
+    "question": "How consistent are you with your online learning routine?",
+    "options": [
+      ["Very consistent", 0],
+      ["Consistent", 1],
+      ["Somewhat consistent", 2],
+      ["Inconsistent", 3],
+      ["Very inconsistent", 4]
+    ]
+  },
+  {
+    "id": 14,
+    "question": "How often do you actively interact (chat, forums, Q&A) during online learning?",
+    "options": [
+      ["Always", 0],
+      ["Often", 1],
+      ["Sometimes", 2],
+      ["Rarely", 3],
+      ["Never", 4]
+    ]
+  },
+  {
+    "id": 15,
+    "question": "How satisfied are you with your overall online learning experience?",
+    "options": [
+      ["Very satisfied", 0],
+      ["Satisfied", 1],
+      ["Neutral", 2],
+      ["Dissatisfied", 3],
+      ["Very dissatisfied", 4]
+    ]
+  }
+]
